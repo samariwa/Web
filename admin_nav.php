@@ -56,7 +56,7 @@ if (isset($_SESSION['logged_in'])) {
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
- <link rel = "icon" href ="assets/img/logo.png" type = "image/x-icon">
+ <link rel = "icon" href ="assets/img/company_logo.png" type = "image/x-icon">
  <title>Kwanza Tukule | Admin Portal</title>
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -235,7 +235,7 @@ Preloader
     <div class="preloader">
         <div class="loader">
             <div class="loader__figure"></div>
-            <p class="loader__label">Kwanza Tukule</p>
+            <p class="loader__label">Imprature Limited</p>
         </div>
     </div>
   <!-- Page Wrapper -->
@@ -247,7 +247,7 @@ Preloader
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="dashboard.php">
         <div class="sidebar-brand-icon ">
-        <!--<img src="assets/img/Kwanza Tukule.png" height="60" width="155">-->
+        <img src="assets/img/company_logo.png" height="80" width="80">
         </div>
       </a>
 
